@@ -1,12 +1,6 @@
-# Portfolio
+# README PORTFOLIO
 2º ASIR | Paula Ramírez Haro
 ----------------------------
- ____  _____    _    ____  __  __ _____ 
-|  _ \| ____|  / \  |  _ \|  \/  | ____|
-| |_) |  _|   / _ \ | | | | |\/| |  _|  
-|  _ <| |___ / ___ \| |_| | |  | | |___ 
-|_| \_\_____/_/   \_\____/|_|  |_|_____|
-
 En este proyecto he creado una página web portfolio interactiva donde los usuarios pueden buscar y filtrar mis proyectos de manera fácil y rápida. La página muestra mis intereses, certificaciones y más detalles.
 
 1. Tecnologías Utilizadas:
