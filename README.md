@@ -2,6 +2,7 @@
 **2º ASIR | Paula Ramírez Haro**
 
 Este proyecto es una página web portfolio interactiva donde los usuarios pueden buscar y filtrar proyectos de manera fácil y rápida. La página muestra mis intereses, certificaciones y más detalles.
+He decidido poner en lá página un formulario que agrega directamente el proyecto, aunque no es necesario y en la realidad no sería lo normal. Así se puede comprobar de una manera más eficaz su funcionamiento.
 
 ## Tecnologías Utilizadas
 
